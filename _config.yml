@@ -18,8 +18,9 @@ description: Personal blog and resume
 avatar: profile.png
 email: bhumikao@iitk.ac.in
 github: bhumikao # username
-twitter: username
-linkedin: username
+# twitter: username
+# linkedin: username
+facebook: bhumika.ojha.14
 
 # needed for travis-ci build
 exclude: [vendor]
