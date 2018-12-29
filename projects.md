@@ -12,3 +12,18 @@ title: Projects
 * Use the concepts of **computational fluid dynamics** to simulate sediment flow and transport
 * For near shore flow, dispersion need to be considered in both longitudinal and transverse directions
 * Fisher’s formulation gave partially accurate value of Dispersion Coefficient
+
+
+### Estimation and Partitioning of Evapotranspiration
+
+* To formulate a model for partitioning of evapotranspiration in an agricultural field
+* Review of various methods and models used for measurement and partitioning of evapotranspiration from journals and research papers
+* To calculate the potential evapotranspiration and scale it down to evaporation, transpiration and interception. Also using Bowen Ratio Energy Balance Method (BREB) for estimation of actual evapotranspiration.
+* Analyzing the effect of different time averaging and advection on the accuracy of BREB method
+* Using the eddy co-variance tower data and Lysimeter data for assesment of the results
+
+
+### Bridge Design and Construction
+* Tutored a group of 5 first year students about structural analysis and designing
+* Designed and simulated building frames and bridges using SAP2000
+* Designed, simulated and constructed a bridge of 2m span and tested it on shake table
